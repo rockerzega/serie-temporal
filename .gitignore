@@ -1,0 +1,11 @@
+# Archivos y directorios específicos de Python y virtualenv
+.venv/
+venv/
+.venv/
+venv/
+.spyproject/
+spyproject/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
